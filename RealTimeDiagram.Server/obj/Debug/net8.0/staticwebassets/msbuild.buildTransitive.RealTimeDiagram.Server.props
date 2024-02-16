@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RealTimeDiagram.Server.props" />
+</Project>

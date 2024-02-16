@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1UPlGn8Y53dhFPVTWnVxdUgjiFabncTwB8zDouamWvI=",
+  "Source": "RealTimeDiagram.Server",
+  "BasePath": "_content/RealTimeDiagram.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
